@@ -1,9 +1,21 @@
 /* Add styling for your page here */
 
 .App {
+    
 
+}
+
+.market{
+    display:flex;
+    justify-content: space-around;
 }
 
 .BakeryItem {
   
+}
+
+.goodsHolder{
+    display:flex;
+    max-width: 65%;
+    flex-wrap: wrap;
 }

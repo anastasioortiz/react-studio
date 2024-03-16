@@ -1,0 +1,17 @@
+.bakeryItem{
+    width: 30%;
+    height: 10%;
+    margin: 5%;
+}
+
+img{
+    width:100%;
+}
+
+.bottom{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+
